@@ -1,0 +1,10 @@
+[{"id":{"$oid":"5c97c32bfc13ae213d000005"},"name":"Nolan Adlard","email":"nadlard0@feedburner.com","password":"6vCpR5MPE","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d000006"},"name":"Rubie Marklund","email":"rmarklund1@people.com.cn","password":"MmnW1ScA","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d000007"},"name":"Jaine Fairhurst","email":"jfairhurst2@dedecms.com","password":"rfp9MR","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d000008"},"name":"Randi Rought","email":"rrought3@deliciousdays.com","password":"0og5ZhP","roles":"ADMIN"},
+    {"id":{"$oid":"5c97c32bfc13ae213d000009"},"name":"Ericka Bucham","email":"ebucham4@constantcontact.com","password":"HxkKSWlE6n","roles":"ADMIN"},
+    {"id":{"$oid":"5c97c32bfc13ae213d00000a"},"name":"Karney Bousler","email":"kbousler5@bigcartel.com","password":"ASrLYDoe","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d00000b"},"name":"Kendell Giovanetti","email":"kgiovanetti6@bloomberg.com","password":"sE9I2Yytp","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d00000c"},"name":"Dasie Ewington","email":"dewington7@hexun.com","password":"hggh7h1gb","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d00000d"},"name":"Kahaleel Diem","email":"kdiem8@ft.com","password":"EFZ9oA2","roles":"EMPLOYEE"},
+    {"id":{"$oid":"5c97c32bfc13ae213d00000e"},"name":"Hyacinthia Babcock","email":"hbabcock9@cnbc.com","password":"2AjbeOH0HA","roles":"EMPLOYEE"}]
